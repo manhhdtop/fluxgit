@@ -8,7 +8,7 @@ This repository hosts the published installers and release notes for FluxGit. Th
 
 Download the latest version from the **Releases** page:
 
-https://gitlab.com/fluxgit/fluxgit-release/-/releases
+https://gitlab.com/fluxgit/fluxgit/-/releases
 
 ## Available Packages
 
